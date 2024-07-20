@@ -1,0 +1,12 @@
+body{
+    background-color: #fcf9ec;
+}
+.footer-bg{
+    color:black;
+}
+@media (max-width: 767px){
+    .middle{
+        
+    }
+}
+
